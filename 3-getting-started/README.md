@@ -1,4 +1,4 @@
-# Course Introduction - AWS Certified Developer Associate
+# Section 3: Getting started with AWS
 
 ## 8. AWS Cloud Overview - Regions & AZ
 
